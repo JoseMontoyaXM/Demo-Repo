@@ -17,6 +17,4 @@ Otra tavuel acá
 
 Esto es para aprender a trabajar con "branches"
 
-Ya casi!
-
-Aún falta, pero ya casi casi
+Ahora sí
